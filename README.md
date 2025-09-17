@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://atulchhonkerportfolio.netlify.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atulchhonker5" height="30" width="40" /></a>
+<a href="https://atulchhonkerportfolio.netlify.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="EngAtulChhonker" height="30" width="40" /></a>
 <a href="https://twitter.com/atulchhonker5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="EngAtulChhonker" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/atul-kumar-Fullstackdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul-kumar-Fullstackdeveloper" height="30" width="40" /></a>
 <a href="https://fb.com/atulsinghchhonker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atulsinghchhonker" height="30" width="40" /></a>
